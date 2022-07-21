@@ -26,7 +26,6 @@ sqlparse==0.3.1           # via django
 urllib3==1.25.9           # via requests
 wcwidth==0.1.9            # via pytest
 zipp==3.1.0               # via importlib-metadata
-djangorestframework-simplejwt
 django-filter
 python-dotenv==0.13.0
 gunicorn==20.0.4
